@@ -1,0 +1,87 @@
+
+ nav{
+    border-color:burlywood;
+    border-width: 2px;
+    border-style: solid;
+    background-color: blanchedalmond;
+    color:black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    li,h1,ul{
+        display: inline;
+    }
+    li{
+        margin-left: 10px;
+        cursor: pointer;
+    }
+    h1{
+        margin-left: 10px;
+    }
+    ul{
+        margin-left: 70%;
+    }
+    li:hover{
+        color:burlywood;
+    }
+}
+
+.searchbar{
+    text-align: center;
+    input{
+        border-color:burlywood;
+        border-width: 2px;
+        border-style: solid;
+        margin-top: 20px;
+        width: 800px;
+        padding: 10px;
+    
+
+    }
+}
+.snack{
+    margin-left: 100px;
+}
+.sone{
+    margin-left: 100px;
+    margin-top: 50px;
+    border-color: burlywood;
+    border-width: 5px;
+    border-style: solid;
+    display: inline-block;
+    text-align: center;
+    img{
+    width: 220px;
+    height: 220px;
+    }
+    p:hover{
+        background-color: rgb(181, 136, 120);
+        color: black;
+        cursor: pointer;
+    }
+    
+}
+
+.aboutus{
+    text-align: center;
+    margin-top: 20px;
+    p{
+       padding: 10px; 
+        padding-top:0;
+        color: rgb(109, 68, 13);
+    
+    }
+}
+.contact{
+   background-color:rgb(94, 58, 12);
+   color:beige;
+   text-align: center;
+   padding: 20px;
+    p,h4{
+        margin: 0;
+        
+    }
+
+
+}
+ 
+
